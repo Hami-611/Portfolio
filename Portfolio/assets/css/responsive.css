@@ -1,0 +1,37 @@
+@media  (max-width: 768px) {
+	         h1{font-size: 1.6rem;}
+	         h2{font-size: 1.3rem;}
+	         h6{font-size: 1.3rem;}
+
+	      
+   
+           
+@media  (max-width: 768px) {
+
+
+          .bg-landing-page 
+           { height: 40vh; }
+
+
+           .edcation-degress
+             {text-align: center;}
+             .education-data
+             {text-align: center;}
+              .portfoli-item .portfolio-img img
+                     {margin-left: 20px;}
+
+
+                      .portfoli-item .portfolio-text 
+                     {margin-left: 35px;}
+
+
+  }
+					
+			 
+       
+
+          
+
+  }
+					
+			 
